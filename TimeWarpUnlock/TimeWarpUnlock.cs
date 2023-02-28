@@ -22,6 +22,6 @@ class TimeWarpPatch
 {
     static void Postfix(ref int __result)
     {
-        __result = PhysicsSettings.TimeWarpLevels.Length - 2;
+        __result = PhysicsSettings.TimeWarpLevels.Length - 1;
     }
 }
