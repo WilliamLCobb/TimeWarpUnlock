@@ -5,7 +5,7 @@ using KSP.Game;
 using UnityEngine;
 using HarmonyLib;
 
-[BepInPlugin("TimeWarpUnlock", "Time Warp Unlock", "1.0")]
+[BepInPlugin("TimeWarpUnlock", "Time Warp Unlock", "0.1")]
 
 public class TimeWarpUnlock : BaseUnityPlugin
 {
